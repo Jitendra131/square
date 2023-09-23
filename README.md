@@ -1,2 +1,6 @@
 # square
-find out the square of given number
+#find square of given number
+num= int(input("enetr the number"))
+result=num*num
+print(result)
+
